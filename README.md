@@ -25,6 +25,3 @@ Projeyi kendi yerel makinenizde görüntülemek için:
 3. `File -> Open Project` yolunu izleyerek proje klasörünü seçin.
 4. Ana dosyayı (Main Class) belirledikten sonra `F6` tuşuna basarak veya `Run` butonuna tıklayarak arayüzü çalıştırın.
 
-
-**Geliştirici:** [Yakup Çetin](https://www.linkedin.com/in/yakup-cetin/)  
-*Bu proje, yazılım geliştirme sürecindeki arayüz tasarımı yetkinliklerini artırmak amacıyla hazırlanmıştır.*
